@@ -2,6 +2,7 @@
 
 Um aplicativo web simples e eficiente para gerenciar suas tarefas diárias, construído com HTML, CSS e JavaScript puro.
 
+![Badge](https://nataldelima.github.io/midia/lista-de-tarefas.png)
 
 ## 🚀 Funcionalidades
 
