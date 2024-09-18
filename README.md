@@ -12,7 +12,7 @@ Um aplicativo web simples e eficiente para gerenciar suas tarefas diárias, cons
 
 ## 🖥️ Demonstração
 
-![Demo do Projeto](https://nataldelima.github.io/projetos/lista-tarefas)
+![Demo do Projeto](https://nataldelima.github.io/midia/portfolio/lista-de-tarefas/)
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -25,7 +25,7 @@ Um aplicativo web simples e eficiente para gerenciar suas tarefas diárias, cons
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/seu-usuario/lista-de-tarefas.git
+   git clone https://github.com/nataldelima/lista-de-tarefas.git
    ```
 2. Abra o arquivo `index.html` no seu navegador.
 
